@@ -24,8 +24,8 @@ Follow these steps to clone the project and run it locally.
 
 ### 1. Clone the Repository
 
-git clone https://github.com/your-username/react-axios-props-demo.git
-cd axios-project
-npm install
-npm run dev
+- git clone https://github.com/your-username/react-axios-props-demo.git
+- cd axios-project
+- npm install
+- npm run dev
 
