@@ -22,8 +22,6 @@ Perfect for beginners looking to understand how React handles API calls and comp
 
 Follow these steps to clone the project and run it locally.
 
-### 1. Clone the Repository
-
 - git clone https://github.com/your-username/react-axios-props-demo.git
 - cd axios-project
 - npm install
